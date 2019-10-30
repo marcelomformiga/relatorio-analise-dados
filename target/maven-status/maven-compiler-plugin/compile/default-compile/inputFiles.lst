@@ -1,0 +1,16 @@
+/home/formiga/Projetos/Exercícios/relatorio-analise-dados/src/main/java/br/com/relatorio_dados/domain/entity/Entidade.java
+/home/formiga/Projetos/Exercícios/relatorio-analise-dados/src/main/java/br/com/relatorio_dados/service/RelatorioService.java
+/home/formiga/Projetos/Exercícios/relatorio-analise-dados/src/main/java/br/com/relatorio_dados/app/RelatorioAnaliseDadosApp.java
+/home/formiga/Projetos/Exercícios/relatorio-analise-dados/src/main/java/br/com/relatorio_dados/domain/entity/Pessoa.java
+/home/formiga/Projetos/Exercícios/relatorio-analise-dados/src/main/java/br/com/relatorio_dados/domain/entity/Item.java
+/home/formiga/Projetos/Exercícios/relatorio-analise-dados/src/main/java/br/com/relatorio_dados/domain/entity/Venda.java
+/home/formiga/Projetos/Exercícios/relatorio-analise-dados/src/main/java/br/com/relatorio_dados/dto/RelatorioDTO.java
+/home/formiga/Projetos/Exercícios/relatorio-analise-dados/src/main/java/br/com/relatorio_dados/service/impl/RelatorioServiceImpl.java
+/home/formiga/Projetos/Exercícios/relatorio-analise-dados/src/main/java/br/com/relatorio_dados/exceptions/ArquivoException.java
+/home/formiga/Projetos/Exercícios/relatorio-analise-dados/src/main/java/br/com/relatorio_dados/domain/entity/Vendedor.java
+/home/formiga/Projetos/Exercícios/relatorio-analise-dados/src/main/java/br/com/relatorio_dados/domain/entity/Cliente.java
+/home/formiga/Projetos/Exercícios/relatorio-analise-dados/src/main/java/br/com/relatorio_dados/exceptions/ExceptionMensagens.java
+/home/formiga/Projetos/Exercícios/relatorio-analise-dados/src/main/java/br/com/relatorio_dados/exceptions/ServiceException.java
+/home/formiga/Projetos/Exercícios/relatorio-analise-dados/src/main/java/br/com/relatorio_dados/dto/EntidadesDTO.java
+/home/formiga/Projetos/Exercícios/relatorio-analise-dados/src/main/java/br/com/relatorio_dados/util/LeitorArquivosUtil.java
+/home/formiga/Projetos/Exercícios/relatorio-analise-dados/src/main/java/br/com/relatorio_dados/domain/enumeration/TipoInformacoesEnum.java
